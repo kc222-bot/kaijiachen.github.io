@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Sasha Davydov"
+title                    : "Kaijia Chen"
 title_separator          : "-"
-name                     : &name "Sasha Davydov"
+name                     : &name "Kaijia Chen"
 description              : &description "personal description"
 url                      : https://davydovalexander.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,8 +80,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Alexander (Sasha) Davydov"
-  avatar           : "alexander-davydov.jpg"
+  name             : "Kaijia Chen"
+  avatar           : "/images/Headshot.jpg"
   bio              : "Rice University"
   location         : "Houston, TX"
   employer         :
