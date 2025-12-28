@@ -8,13 +8,12 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default"
 title                    : "Kaijia Chen"
 title_separator          : "-"
 name                     : &name "Kaijia Chen"
 description              : &description ""   # (blank: you can add a 1-line tagline later)
 url                      : "https://kc222-bot.github.io"
-baseurl                  : "/kaijiachen.github.io"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "kc222-bot/kaijiachen.github.io"
 
 # Site Author
