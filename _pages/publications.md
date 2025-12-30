@@ -35,3 +35,27 @@ author_profile: true
     </a>.
   </li>
 </ul>
+
+<h2>Licensure</h2>
+<li>
+  <span class="bibtex-protected">
+    Engineer Intern (EIT)
+  </span>
+  <br>
+  State of Tennessee — Board of Architectural and Engineering Examiners.
+  License No. 37040.
+  <a href="https://search.cloud.commerce.tn.gov/search/C2810123/detail">
+    Verification Link
+  </a>.
+</li>
+
+<li>
+  <span class="bibtex-protected">
+    Certified SOLIDWORKS Design Associate (CSWA)
+  </span>
+  — Dassault Systèmes / 3DEXPERIENCE® Certification Center.   
+  <a href="https://cv.virtualtester.com/qr/?b=SLDWRKS&i=C-3562LGBXP7">
+    Certificate Verification
+  </a>.
+</li>
+
