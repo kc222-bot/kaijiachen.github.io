@@ -10,8 +10,29 @@ author_profile: true
 
 <b>Running:</b> I enjoy running and have been running a daily 5K since 2021.
 
+<b>Photo Gallery:</b> A collection of memorable moments from recent years.
+
 <figure>
-  <img src="/images/Rice_Group.jpg" alt="CARA Fall 2025" width="300">
-  <figcaption>CARA Fall 2025</figcaption>
+  <img src="/images/Rice_Group.jpg" alt="CARA Lab Fall 2025" width="300">
+  <figcaption>Rice University CARA Lab — Fall 2025</figcaption>
 </figure>
 
+<figure>
+  <img src="/images/Coloplast2.jpg" alt="Coloplast Interventional Urology 2025" width="300">
+  <figcaption>Coloplast Interventional Urology — Summer 2025</figcaption>
+</figure>
+
+<figure>
+  <img src="/images/Graduation2025.jpg" alt="Vanderbilt University Commencement 2025" width="300">
+  <figcaption>Vanderbilt University Commencement — Spring 2025</figcaption>
+</figure>
+
+<figure>
+  <img src="/images/Coloplast.jpg" alt="Coloplast Interventional Urology 2024" width="300">
+  <figcaption>Coloplast Interventional Urology — Summer 2024</figcaption>
+</figure>
+
+<figure>
+  <img src="/images/Mayfield.jpg" alt="Mayfield Living Learning Lodge Program" width="300">
+  <figcaption>Vanderbilt Mayfield Living Learning Lodge Program — 2022–2023</figcaption>
+</figure>
