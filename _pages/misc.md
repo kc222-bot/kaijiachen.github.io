@@ -10,8 +10,15 @@ author_profile: true
 
 <b>Running:</b> I enjoy running and have been running a daily 5K since 2021.
 
-<b>Photo Gallery:</b> A collection of memorable moments from recent years.
+<b>Music:</b> I enjoy a wide range of genres, including country, hard rock, EDM, and basically everything!
+<ul>
+  <li>Choosin' Texas — Ella Langley</li>
+  <li>I Just Want to Dance with You — George Strait</li>
+  <li>It's a Long Way to the Top (If You Wanna Rock 'n' Roll) — AC/DC</li>
+  <li>COULD BE WRONG — LOSTBOYJAY</li>
+</ul>
 
+<b>Photo Gallery:</b> A collection of memorable moments from recent years.
 <figure>
   <img src="/images/Rice_Group.jpg" alt="CARA Lab Fall 2025" width="100">
   <figcaption>Rice University CARA Lab — Fall 2025</figcaption>
