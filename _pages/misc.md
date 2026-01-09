@@ -12,7 +12,7 @@ author_profile: true
 
 <b>Music:</b> I enjoy a wide range of genres, including country, hard rock, EDM, and basically everything!
 <ul>
-  <li>Choosin' Texas — Ella Langley</li>
+  <li>Rocky Mountain High — John Denver</li>
   <li>I Just Want to Dance with You — George Strait</li>
   <li>It's a Long Way to the Top (If You Wanna Rock 'n' Roll) — AC/DC</li>
   <li>COULD BE WRONG — LOSTBOYJAY</li>
